@@ -20,7 +20,7 @@ Na planetě se nachází třeba lanpovník nebo vodní meloun a dají se využí
 - [x] Zajistit jídlo a pití 
 - [ ] Vyléčit se 
 - [x] Vybudovat základnu 
-- [ ]Zjistit co se na planetě děje
+- [x]Zjistit co se na planetě děje
 - [ ]Uniknout z planety
 
 
