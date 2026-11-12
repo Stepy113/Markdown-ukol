@@ -17,9 +17,9 @@ Na planetě se nachází třeba lanpovník nebo vodní meloun a dají se využí
 ## Kapitola 2) Co dělat?
 - Při přislání byl vyslán nouzový signál, bohužel záchraná loď by měla dorazit za 99999999 minut
 ### 2.1) Plán
-- [ ]Zajistit jídlo a pití 
-- [ ]Vyléčit se 
-- [ ]Vybudovat základnu 
+- [ ] [x] Zajistit jídlo a pití 
+- [ ] [x]Vyléčit se 
+- [ ] [x]Vybudovat základnu 
 - [ ]Zjistit co se na planetě děje
 - [ ]Uniknout z planety
 
