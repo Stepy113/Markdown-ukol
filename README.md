@@ -7,7 +7,7 @@
 ### 1.1) Strava a pití
 Pro přežití na planetě 4546B je strava a pitný režim nejdůležitější
 -Voda: před získání blueprintů pro filtrační zařízení se dá výborně využít *měchýřovec* jako zdroj vody
-![ryba](obrazky/mechyrovec.png)
+![ryba](obrazky/mechyrovec.jpg)
 -Jídlo: Živit se dá valnou většinou malých rybiček **po tepelném upravení**
 1. Čumík
 2. Garryba
