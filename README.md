@@ -8,6 +8,7 @@
 Pro přežití na planetě 4546B je strava a pitný režim nejdůležitější
 - Voda: před získání blueprintů pro filtrační zařízení se dá výborně využít *měchýřovec* jako zdroj vody
 ![Zdroj vody](obrazky/mechyrovec.jpg)
+> *Měchýřovec (Bladderfish) – hlavní zdroj pitné vody v začátcích hry.*
 - Jídlo: Živit se dá valnou většinou malých rybiček **po tepelném upravení**
 1. Čumík
 2. Garryba
