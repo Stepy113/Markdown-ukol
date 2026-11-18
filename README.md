@@ -26,24 +26,11 @@ Na planetě se nachází třeba lanpovník nebo vodní meloun a dají se využí
 
 ### 2.2) Srovnání zdrojů obživy
 
-Pro rychlou orientaci při potápění se hodí znát základní hodnoty vybraných organismů (více informací najdeš na [Subnautica Wiki](https://subnautica.fandom.com/) nebo v [oficiální příručce na Steamu](https://steamcommunity.com/)):
+Více informací najdeš na [Subnautica Wiki](https://subnautica.fandom.com/) nebo v [oficiální příručce na Steamu](https://steamcommunity.com/)):
 
 | Organismus | Typ | Přínos (jídlo / voda) | Poznámka |
 | :--- | :---: | :---: | :--- |
 | **Měchýřovec** | Ryba | +10 / +15 | Nejlepší zdroj vody na začátku hry |
 | **Čumík** | Ryba | +32 / +5 | Nutné tepelně upravit |
 | **Vodní meloun** | Flóra | +12 / +14 | Skvělý pro pěstování na základně |
-
-### 2.3) Palubní počítač PDA – výpočet zásob kyslíku
-
-Simulace výpočtu zbývajícího času pod hladinou v Pythonu:
-
-```python
-hloubka_m = 120
-kapacita_kysliku_s = 135
-spotreba_koeficient = 1.5 if hloubka_m > 100 else 1.0
-
-zbývající_cas = kapacita_kysliku_s / spotreba_koeficient
-print(f"Zbývající čas pod hladinou: {zbývající_cas} sekund")
-
 
