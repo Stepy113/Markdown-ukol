@@ -35,3 +35,9 @@ Více informací najdeš na [Subnautica Wiki](https://subnautica.fandom.com/) ne
 | **Čumík** | Ryba | +32 / +5 | Nutné tepelně upravit |
 | **Vodní meloun** | Flóra | +12 / +14 | Skvělý pro pěstování na základně |
 
+```mermaid
+graph TD
+    A[Ztroskotání na planetě] --> B[Chytit měchýřovce]
+    B --> C[Postavit základnu]
+    C --> D[Najít lék a odletět]
+```
