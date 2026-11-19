@@ -1,0 +1,16 @@
+{
+ "jmeno" : "Ema Štěpánová" 
+ "vek" : 18
+ "je_plnolety": true,
+ "poznamka": null,
+ "adresa": {
+    "ulice":"Krolmusova" 
+    "mesto":"Praha"
+    "psc":"163 00"
+},
+ "konicky" [
+  "fotbal",
+  "malovni",
+  "hraní pocitacovych her"
+   ] 
+}
